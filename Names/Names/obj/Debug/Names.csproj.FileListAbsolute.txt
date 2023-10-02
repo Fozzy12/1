@@ -1,0 +1,10 @@
+C:\Users\Zet Gaming\source\repos\Names\Names\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\Zet Gaming\source\repos\Names\Names\obj\Debug\Names.Form1.resources
+C:\Users\Zet Gaming\source\repos\Names\Names\obj\Debug\Names.Properties.Resources.resources
+C:\Users\Zet Gaming\source\repos\Names\Names\obj\Debug\Names.csproj.GenerateResource.cache
+C:\Users\Zet Gaming\source\repos\Names\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\Zet Gaming\source\repos\Names\Names\bin\Debug\Names.exe.config
+C:\Users\Zet Gaming\source\repos\Names\Names\bin\Debug\Names.exe
+C:\Users\Zet Gaming\source\repos\Names\Names\bin\Debug\Names.pdb
+C:\Users\Zet Gaming\source\repos\Names\Names\obj\Debug\Names.exe
+C:\Users\Zet Gaming\source\repos\Names\Names\obj\Debug\Names.pdb
