@@ -1,0 +1,10 @@
+C:\Users\Zet Gaming\source\repos\Секундомер\Секундомер\bin\Debug\Секундомер.exe.config
+C:\Users\Zet Gaming\source\repos\Секундомер\Секундомер\bin\Debug\Секундомер.exe
+C:\Users\Zet Gaming\source\repos\Секундомер\Секундомер\bin\Debug\Секундомер.pdb
+C:\Users\Zet Gaming\source\repos\Секундомер\Секундомер\obj\Debug\Секундомер.csproj.AssemblyReference.cache
+C:\Users\Zet Gaming\source\repos\Секундомер\Секундомер\obj\Debug\Секундомер.Form1.resources
+C:\Users\Zet Gaming\source\repos\Секундомер\Секундомер\obj\Debug\Секундомер.Properties.Resources.resources
+C:\Users\Zet Gaming\source\repos\Секундомер\Секундомер\obj\Debug\Секундомер.csproj.GenerateResource.cache
+C:\Users\Zet Gaming\source\repos\Секундомер\Секундомер\obj\Debug\Секундомер.csproj.CoreCompileInputs.cache
+C:\Users\Zet Gaming\source\repos\Секундомер\Секундомер\obj\Debug\Секундомер.exe
+C:\Users\Zet Gaming\source\repos\Секундомер\Секундомер\obj\Debug\Секундомер.pdb
