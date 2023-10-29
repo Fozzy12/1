@@ -1,0 +1,10 @@
+C:\Users\Zet Gaming\source\repos\Lab_7.2\Lab_7.2\bin\Debug\Lab_7.2.exe.config
+C:\Users\Zet Gaming\source\repos\Lab_7.2\Lab_7.2\bin\Debug\Lab_7.2.exe
+C:\Users\Zet Gaming\source\repos\Lab_7.2\Lab_7.2\bin\Debug\Lab_7.2.pdb
+C:\Users\Zet Gaming\source\repos\Lab_7.2\Lab_7.2\obj\Debug\Lab_7.2.csproj.AssemblyReference.cache
+C:\Users\Zet Gaming\source\repos\Lab_7.2\Lab_7.2\obj\Debug\Lab_7._2.Form1.resources
+C:\Users\Zet Gaming\source\repos\Lab_7.2\Lab_7.2\obj\Debug\Lab_7._2.Properties.Resources.resources
+C:\Users\Zet Gaming\source\repos\Lab_7.2\Lab_7.2\obj\Debug\Lab_7.2.csproj.GenerateResource.cache
+C:\Users\Zet Gaming\source\repos\Lab_7.2\Lab_7.2\obj\Debug\Lab_7.2.csproj.CoreCompileInputs.cache
+C:\Users\Zet Gaming\source\repos\Lab_7.2\Lab_7.2\obj\Debug\Lab_7.2.exe
+C:\Users\Zet Gaming\source\repos\Lab_7.2\Lab_7.2\obj\Debug\Lab_7.2.pdb
