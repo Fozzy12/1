@@ -1,0 +1,10 @@
+C:\Users\Zet Gaming\source\repos\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+C:\Users\Zet Gaming\source\repos\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+C:\Users\Zet Gaming\source\repos\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+C:\Users\Zet Gaming\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.AssemblyReference.cache
+C:\Users\Zet Gaming\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.Form1.resources
+C:\Users\Zet Gaming\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+C:\Users\Zet Gaming\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+C:\Users\Zet Gaming\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\Zet Gaming\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+C:\Users\Zet Gaming\source\repos\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
